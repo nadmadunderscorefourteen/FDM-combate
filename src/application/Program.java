@@ -37,5 +37,7 @@ public class Program {
 
 		System.out.println();
 		firstChamp.printResult(firstChamp, secondChamp, times);
+		
+		sc.close();
 	}
 }
